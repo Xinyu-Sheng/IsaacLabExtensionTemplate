@@ -21,7 +21,7 @@ keywords = ["extension", "template", "isaaclab"]
 # NOTE: Add additional dependencies here
 
 [[python.module]]
-name = "ext_template"
+name = "your_fancy_extension_name"
 
 [isaaclab_settings]
 # TODO: Uncomment and list any apt dependencies here.
